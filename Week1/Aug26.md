@@ -39,3 +39,9 @@ Boolean Operators
 - NOT(!), AND(*), OR(+)
 
 The Combination of These Operators Can Build Any Computer
+
+
+## Boolean Algebra
+Equations are constructable into Equations
+- ex: A*(B+!C)
+
