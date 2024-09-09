@@ -33,5 +33,12 @@ Computer Systems Functions
 - If OP == 111: Out = A < B
   - 0 if A !< B (false); 1 if A < B (true)
 
+## Representing Floats With Binary Values
+#### Floating Point - Implemented with IEEE754
+0.1 + 0.2 = .300000029802322
+
+A trade-off of some precision for more range
+
+
 ## Logisim Binary to Decimal Number
 Radix -> Signed Decimal
